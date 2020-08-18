@@ -1,5 +1,5 @@
 # front-end
-web app simple dice game
+Simple web app dice game
 
   ##PRE REQUISITES
   
